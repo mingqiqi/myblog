@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+# React
+## Installation
+1. Install npm. 
+https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows
+2. Install create-react-app 
+https://reactjs.org/docs/add-react-to-a-new-app.html or https://github.com/facebook/create-react-app
